@@ -1,1 +1,1 @@
-# pensamiento-computacional-1
+# omega-up-ciclo-I.git
